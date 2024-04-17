@@ -1,0 +1,2 @@
+# CashWeb
+Simple accounting backend
